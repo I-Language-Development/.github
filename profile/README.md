@@ -2,7 +2,7 @@
 The I programming language is a high level programming language written in pure python. 
 
 ## Team
-The core team consist of @ElBe-Plaq and @MasterOktagon.
+The core team consist of [@ElBe-Plaq](https://github.com/ElBe-Plaq) and [@MasterOktagon](https://github.com/MasterOktagon).
 
 ## Contributing
 To contribute follow these steps:
