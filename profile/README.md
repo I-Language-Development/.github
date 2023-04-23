@@ -1,8 +1,12 @@
+<p align="center">
+    <img src="https://github.com/I-Language-Development/I-language/blob/main/.github/logo-with-text.png" height="100px">
+</p>
+
 # I-Language-Development
 The I programming language is a high level programming language written in pure python. 
 
 ## Team
-The core team consist of [@ElBe-Plaq](https://github.com/ElBe-Plaq) and [@MasterOktagon](https://github.com/MasterOktagon).
+The core team consist of [@ElBe-Plaq](https://github.com/ElBe-Plaq), [@MasterOktagon](https://github.com/MasterOktagon) and [@Ranastra](https://github.com/Ranastra).
 
 ## Contributing
 To contribute follow these steps:
