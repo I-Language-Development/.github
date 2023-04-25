@@ -3,7 +3,7 @@
 </p>
 
 # I-Language-Development
-The I programming language is a high level programming language written in pure python. 
+The I programming language is a high level programming language written in rust. 
 
 ## Team
 The core team consist of [@ElBe-Plaq](https://github.com/ElBe-Plaq), [@MasterOktagon](https://github.com/MasterOktagon) and [@Ranastra](https://github.com/Ranastra).
