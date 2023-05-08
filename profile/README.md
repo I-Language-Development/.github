@@ -3,12 +3,15 @@
 </p>
 
 # I-Language-Development
+
 The I programming language is a high level programming language written in rust. 
 
 ## Team
+
 The core team consist of [@ElBe-Plaq](https://github.com/ElBe-Plaq), [@MasterOktagon](https://github.com/MasterOktagon) and [@Ranastra](https://github.com/Ranastra).
 
 ## Contributing
+
 To contribute follow these steps:
 1. Fork the repository you want to contribute to.
 2. Clone it on your computer.
