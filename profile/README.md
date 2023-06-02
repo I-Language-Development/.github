@@ -18,6 +18,8 @@ To contribute follow these steps:
 3. Make the changes.
 4. Update your fork and create a pull request at the original repository.
 
+Make sure to follow the `CONTRIBUTING.md` file of the project.
+
 If you contribute often and can be trusted by the core team, you might get invited to be a developer here.
 
 Note: This is a side project. There is no payment involved in this.
